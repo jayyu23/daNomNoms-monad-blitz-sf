@@ -2,6 +2,12 @@
 
 Monad x402 SF Hackathon Project
 
+## Demo
+
+[Demo Video](https://drive.google.com/file/d/1TDB5jsewuZYHGQrNe75SvNvTHEidX2iX/view?usp=sharing)
+
+![DaNomNoms Demo](./photo.png)
+
 ## Project Overview
 
 DaNomNoms is a full-stack food delivery platform built for the Monad blockchain ecosystem. The project demonstrates seamless integration of AI-powered conversational ordering, blockchain-based micropayments via x402 protocol, and traditional delivery fulfillment through DoorDash.
@@ -38,10 +44,6 @@ DaNomNoms is a full-stack food delivery platform built for the Monad blockchain 
 - React Markdown (Message rendering)
 
 A REST API for the DaNomNoms food delivery service, integrating with DoorDash for delivery fulfillment.
-
-## Demo
-
-![DaNomNoms Demo](./photo.png)
 
 ## Table of Contents
 
